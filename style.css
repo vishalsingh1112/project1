@@ -265,8 +265,17 @@ ul a {
     background-color: #0f1111;
     color: white;
     display: flex;
-    
-    
+
+    }
+.pages{
+       font-size: 0.7rem;
+        text-align:center;
+        padding-top:25px;
+    }
+.copyrights{
+    padding-top: 5px;
+    font-size: 0.7rem;
+    text-align: center ;
 
 
 }
